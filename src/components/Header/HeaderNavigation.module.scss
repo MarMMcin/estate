@@ -1,0 +1,26 @@
+.wrapper {
+  margin-left: 180px;
+  padding: 0;
+}
+
+.navItem {
+  display: inline-block;
+  margin-right: 50px;
+  padding: 5px 35px;
+  list-style: none;
+  background-color: white;
+  border-radius: 10px;
+  border: 2px solid #05842f;
+
+  &Link {
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+
+    &Active {
+      // font-weight: 700;
+      text-shadow: 0 0 0.9px, 0 0 0.9px, 0 0 0.9px;
+      color: #05842f;
+    }
+  }
+}

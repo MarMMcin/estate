@@ -1,0 +1,19 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 10px 1fr 120px;
+  align-items: center;
+  padding-right: 40px;
+}
+
+.logo {
+  width: 100vw;
+  height: 20vh;
+  min-width: 100vh;
+  object-fit: cover;
+}
+
+@media (max-width: 766px) {
+  .wrapper {
+    grid-template-columns: 10px 1fr 120px;
+  }
+}
