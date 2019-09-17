@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MarMMcin/estate/static/css/main.27e77c78.chunk.css",
-    "main.js": "/MarMMcin/estate/static/js/main.818d946a.chunk.js",
-    "main.js.map": "/MarMMcin/estate/static/js/main.818d946a.chunk.js.map",
-    "runtime~main.js": "/MarMMcin/estate/static/js/runtime~main.0821b61d.js",
-    "runtime~main.js.map": "/MarMMcin/estate/static/js/runtime~main.0821b61d.js.map",
-    "static/js/2.34e87a3b.chunk.js": "/MarMMcin/estate/static/js/2.34e87a3b.chunk.js",
-    "static/js/2.34e87a3b.chunk.js.map": "/MarMMcin/estate/static/js/2.34e87a3b.chunk.js.map",
-    "index.html": "/MarMMcin/estate/index.html",
-    "precache-manifest.f4fdbabdf048f502ab60ebe36a32edac.js": "/MarMMcin/estate/precache-manifest.f4fdbabdf048f502ab60ebe36a32edac.js",
-    "service-worker.js": "/MarMMcin/estate/service-worker.js",
-    "static/css/main.27e77c78.chunk.css.map": "/MarMMcin/estate/static/css/main.27e77c78.chunk.css.map",
-    "static/media/logo2.jpg": "/MarMMcin/estate/static/media/logo2.621aa230.jpg"
+    "main.css": "/estate/static/css/main.27e77c78.chunk.css",
+    "main.js": "/estate/static/js/main.818d946a.chunk.js",
+    "main.js.map": "/estate/static/js/main.818d946a.chunk.js.map",
+    "runtime~main.js": "/estate/static/js/runtime~main.b7029bf9.js",
+    "runtime~main.js.map": "/estate/static/js/runtime~main.b7029bf9.js.map",
+    "static/js/2.34e87a3b.chunk.js": "/estate/static/js/2.34e87a3b.chunk.js",
+    "static/js/2.34e87a3b.chunk.js.map": "/estate/static/js/2.34e87a3b.chunk.js.map",
+    "index.html": "/estate/index.html",
+    "precache-manifest.a450b7a5bc4148253447c959bfc7657a.js": "/estate/precache-manifest.a450b7a5bc4148253447c959bfc7657a.js",
+    "service-worker.js": "/estate/service-worker.js",
+    "static/css/main.27e77c78.chunk.css.map": "/estate/static/css/main.27e77c78.chunk.css.map",
+    "static/media/logo2.jpg": "/estate/static/media/logo2.621aa230.jpg"
   }
 }
